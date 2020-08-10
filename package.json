@@ -2,7 +2,8 @@
   "name": "resume",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://denzelhartshorn.github.io/deployed-react-portfolio3/",
+  // "homepage": "https://denzelhartshorn.github.io/deployed-react-portfolio3/",
+  "homepage": "denzelhartshorn.tech",
   "dependencies": {
     "gh-pages-deploy": "^0.5.1",
     "react": "^16.6.0",
