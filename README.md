@@ -2,7 +2,7 @@
 
 Check it out!
 
-https://denzelhartshorn.github.io/deployed-react-portfolio3/
+denzelhartshorn.tech
 
 Technologies: React, JavaScript, CSS, HTML, Node - Deployed with Firebase
 
