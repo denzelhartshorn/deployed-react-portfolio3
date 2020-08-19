@@ -4,7 +4,7 @@ Check it out!
 
 denzelhartshorn.tech
 
-Technologies: React, JavaScript, CSS, HTML, Node - Deployed with Firebase
+Technologies: React, JavaScript, CSS, HTML, Node - Deployed with Github Pages
 
 <img width="829" alt="Screen Shot 2020-08-06 at 4 29 48 PM" src="https://user-images.githubusercontent.com/50594925/89592772-5113ae80-d802-11ea-8660-24a08e25aa45.png">
 <img width="1117" alt="Screen Shot 2020-07-23 at 2 05 17 PM" src="https://user-images.githubusercontent.com/50594925/88338969-1122d680-ccee-11ea-80e5-0992358fd48a.png">
