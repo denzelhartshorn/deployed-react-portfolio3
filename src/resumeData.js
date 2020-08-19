@@ -59,39 +59,39 @@ let resumeData = {
         "This is my first project with React, a game to test your memory - scroll down to my projects to see more!"
     }
   ],
-  skillsDescription: "",
-  skills: [
-    {
-      skillname: "CSS"
-    },
-    {
-      skillname: "Express.js"
-    },
-    {
-      skillname: "Github & Gitlab"
-    },
-    {
-      skillname: "HTML"
-    },
-    {
-      skillname: "JavaScript"
-    },
-    {
-      skillname: "Mongo DB & Mongoose"
-    },
-    {
-      skillname: "MYSQL & SQL"
-    },
-    {
-      skillname: "React"
-    },
-    {
-      skillname: "React Native"
-    },
-    {
-      skillname: "Python"
-    }
-  ],
+  // skillsDescription: "",
+  // skills: [
+  //   {
+  //     skillname: "CSS"
+  //   },
+  //   {
+  //     skillname: "Express.js"
+  //   },
+  //   {
+  //     skillname: "Github & Gitlab"
+  //   },
+  //   {
+  //     skillname: "HTML"
+  //   },
+  //   {
+  //     skillname: "JavaScript"
+  //   },
+  //   {
+  //     skillname: "Mongo DB & Mongoose"
+  //   },
+  //   {
+  //     skillname: "MYSQL & SQL"
+  //   },
+  //   {
+  //     skillname: "React"
+  //   },
+  //   {
+  //     skillname: "React Native"
+  //   },
+  //   {
+  //     skillname: "Python"
+  //   }
+  // ],
   portfolio: [
     {
       name: "Meal Planner",
