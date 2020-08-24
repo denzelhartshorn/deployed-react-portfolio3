@@ -6,6 +6,8 @@ Check it out!
 
 denzelhartshorn.tech
 
+Deployed on Gh pages and Firebase
+
 Technologies: React, JavaScript, CSS, HTML, Node - Deployed with Github Pages
 
 <img width="829" alt="Screen Shot 2020-08-06 at 4 29 48 PM" src="https://user-images.githubusercontent.com/50594925/89592772-5113ae80-d802-11ea-8660-24a08e25aa45.png">
