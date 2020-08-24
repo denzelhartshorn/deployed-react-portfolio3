@@ -3,7 +3,7 @@ let resumeData = {
   name: "Denzel Hartshorn",
   role: "Full Stack Developer (MERN Stack)",
   linkedinId: "https://www.linkedin.com/in/denzel-hartshorn-147302106/",
-  // skypeid: "",
+  emailId: "denzelhartshorn@gmail.com",
   roleDescription: "",
   socialLinks: [
     {
@@ -21,6 +21,7 @@ let resumeData = {
     "Semi-pro soccer player turned web developer. Self-motivated, creative, and dedicated, with strong teamwork and communication skills. Quick to learn new systems with the ability to thrive in independent and collaborative work environments. Strong qualifications in problem-solving, product management, sales, marketing, communication, and leadership. Currently building projects with the MERN stack using the following tools.",
   address: "Palo Alto, California",
   website: "https://github.com/denzelhartshorn",
+  email: "denzelhartshorn@gmail.com",
   education: [
     {
       UniversityName: "UC Berkeley Full-Stack Coding Bootcamp",
@@ -59,39 +60,39 @@ let resumeData = {
         "This is my first project with React, a game to test your memory - scroll down to my projects to see more!"
     }
   ],
-  // skillsDescription: "",
-  // skills: [
-  //   {
-  //     skillname: "CSS"
-  //   },
-  //   {
-  //     skillname: "Express.js"
-  //   },
-  //   {
-  //     skillname: "Github & Gitlab"
-  //   },
-  //   {
-  //     skillname: "HTML"
-  //   },
-  //   {
-  //     skillname: "JavaScript"
-  //   },
-  //   {
-  //     skillname: "Mongo DB & Mongoose"
-  //   },
-  //   {
-  //     skillname: "MYSQL & SQL"
-  //   },
-  //   {
-  //     skillname: "React"
-  //   },
-  //   {
-  //     skillname: "React Native"
-  //   },
-  //   {
-  //     skillname: "Python"
-  //   }
-  // ],
+  skillsDescription: "",
+  skills: [
+    {
+      skillname: "CSS"
+    },
+    {
+      skillname: "Express.js"
+    },
+    {
+      skillname: "Github & Gitlab"
+    },
+    {
+      skillname: "HTML"
+    },
+    {
+      skillname: "JavaScript"
+    },
+    {
+      skillname: "Mongo DB & Mongoose"
+    },
+    {
+      skillname: "MYSQL & SQL"
+    },
+    {
+      skillname: "React"
+    },
+    {
+      skillname: "React Native"
+    },
+    {
+      skillname: "Python"
+    }
+  ],
   portfolio: [
     {
       name: "Meal Planner",
