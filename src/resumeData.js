@@ -49,7 +49,7 @@ let resumeData = {
       MonthOfLeaving: "May",
       YearOfLeaving: "2020",
       Achievements:
-        "ReactNative-GuessGame is a mobile app that is a simple high/low guessing game built with React Native, Javascript and CSS that knows when you arent playing fair! It is compatible with Andriod and iOS and incorporates different screens, multiple components, styling, game mechanics, navigation and a custom button."
+        "This is a mobile app that is a simple high/low guessing game built with React Native, Javascript and CSS that knows when you arent playing fair! It is compatible with Andriod and iOS and incorporates different screens, multiple components, styling, game mechanics, navigation and a custom button."
     },
     {
       CompanyName: "Recipe App",
@@ -57,7 +57,7 @@ let resumeData = {
       MonthOfLeaving: "June",
       YearOfLeaving: "2020",
       Achievements:
-        "recipeApp-react-native is a React Native app that helps you find and organize your favorite recipes. It has pages to display recipe categories and your favories as well as a screen to add filters too your search. It was built with React Native, Javascript, and CSS. It is compatible with Andriod and iOS and incorporates different screens, multiple components, styling and navigation."
+        "Recipe App is a React Native app that helps you find and organize your favorite recipes. It has pages to display recipe categories and your favories as well as a screen to add filters too your search. It was built with React Native, Javascript, and CSS. It is compatible with Andriod and iOS and incorporates different screens, multiple components, styling and navigation."
     }
   ],
   skillsDescription: "",
