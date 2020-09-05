@@ -6,7 +6,7 @@ Check it out!
 
 denzelhartshorn.tech
 
-Deployed on Gh pages and Firebase
+Deployed on Gh pages and Firebase.
 
 Technologies: React, JavaScript, CSS, HTML, Node - Deployed with Github Pages
 
