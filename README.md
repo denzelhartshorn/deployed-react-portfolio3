@@ -2,7 +2,7 @@
 
 deployed-react-portfolio3 is the latest iteration of my personal portfolio website.  It contains a personal profile, projects, experience and contact information.
 
-Check it out!
+Check it out live here!
 
 denzelhartshorn.tech
 
